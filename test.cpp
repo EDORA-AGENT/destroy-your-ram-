@@ -1,3 +1,5 @@
+// Copyright (c) 2026 Louie-Micca
+// Licensed under the MIT License.
 #include <iostream>
 #include <vector>
 #include <cstring>
